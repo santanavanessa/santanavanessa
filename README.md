@@ -5,7 +5,7 @@
 
 - 🌱 Estudando React
 - 😄 Pronomes: ela/dela
-- ⚡ Fato sobre mim: Amo cozinhar! Meu prato assinatura: Ceia de Natal.
+
   
 ##
 
