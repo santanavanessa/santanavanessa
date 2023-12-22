@@ -4,7 +4,7 @@
 
 
 - 🌱 Estudando React
-- 😄 Pronomes: ela/dela
+- 😃 Pronomes: ela/dela
 
   
 ##
