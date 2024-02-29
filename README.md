@@ -3,7 +3,7 @@
 
 
 
-- 💻 Estudando React e TypeScript
+- 💻 Estudando React, TypeScript e Python
 - 😃 Pronomes: ela/dela
 
   
