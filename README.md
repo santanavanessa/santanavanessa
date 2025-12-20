@@ -1,30 +1,15 @@
-# Olá! Meu nome é Vanessa Santana 👋🏾
+# Olá, Meu nome é Vanessa Santana! Boas-vindas ao meu perfil!!! 👋🏽
+
+### 🚀 Sobre mim
+- 🎓 Pós-graduada em **Desenvolvimento Full Stack** e graduada em **Análise e Desenvolvimento de Sistemas**.
+- 🛠️ Minha stack principal foca no ecossistema JavaScript: **Next.js, React, Node.js e TypeScript**.
+- ☁️ Entusiasta de cultura DevOps e voluntária na comunidade **DevOpsDays Salvador**.
+- 💬 Acredito que a tecnologia é uma ferramenta para gerar impacto real, por isso foco em criar soluções com boa experiência de usuário e performance.
+
+### 📫 Vamos nos conectar?
+- [LinkedIn](https://www.linkedin.com/in/vanessa-a-santana/)
+- [Meu Portfólio](https://vanessa-santana.vercel.app/)
 
 
 
-
-- 💻 Estudando React e TypeScript 
-- 😃 Pronomes: ela/dela
-
-  
-##
-
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="React-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-##
-
-<div> 
-  
- <a href="https://discord.gg/vanessa_santana" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:santanavanessa91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vanessa-santana-995081258" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
