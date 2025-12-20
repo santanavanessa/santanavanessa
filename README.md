@@ -47,7 +47,7 @@
 ### Vamos nos conectar?
 - [LinkedIn](https://www.linkedin.com/in/vanessa-a-santana/)
 - [Meu Portfólio](https://vanessa-santana.vercel.app/)
-
+- [Meu e-mail](mailto:santanavanessa91@gmal.com)
 
 
 
