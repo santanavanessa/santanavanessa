@@ -1,4 +1,4 @@
-# Olá, Meu nome é Vanessa Santana! Boas-vindas ao meu perfil!!! 👋🏽
+# Olá, meu nome é Vanessa Santana! Boas-vindas ao meu perfil! 👋🏽
 
 ### Sobre mim
 - 🎓 Pós-graduada em **Desenvolvimento Full Stack** e graduada em **Análise e Desenvolvimento de Sistemas**.
